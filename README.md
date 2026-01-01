@@ -14,7 +14,7 @@
 
 ## 🔥 What I’m Currently Doing
 
-<p align="center">
+<p align="">
   🔍 Exploring JavaScript deeply — closures, event loop, async patterns, prototypes & performance optimization<br/>
   🌱 Learning MERN Stack for high-performance full-stack applications<br/>
   💼 Working on a <b>Shipping Web Application</b><br/>
@@ -26,7 +26,7 @@
 
 ## 🛠️ Skills
 
-<p align="center">
+<p align="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" />&nbsp;
@@ -35,14 +35,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" />
 </p>
 
-<p align="center">
+<p align="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="REST API" width="40" />
 </p>
 
-<p align="center">
+<p align="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" />&nbsp;
@@ -50,7 +50,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" />
 </p>
 
-<p align="center">
+<p align="">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobe/adobe-plain.svg" alt="UI/UX" width="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/responsive/responsive-plain.svg" alt="Responsive Design" width="40" />
@@ -60,7 +60,7 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="">
   <a href="mailto:kanizfatema2701@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/gmail--v1.png" width="30" /> Email
   </a>&nbsp;&nbsp;
