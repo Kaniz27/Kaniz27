@@ -47,10 +47,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  📧 <b>Email:</b> kushbuladesignmax+++@gmail.com<br/><br/>
-  🔗 <a href="https://www.linkedin.com/in/kushbula-ahmed-nahiyan/">LinkedIn</a> • 
-  <a href="https://www.facebook.com/nahiyan.01.khan">Facebook</a> • 
-  <a href="https://kushbula.netlify.app/">Portfolio</a>
+  📧 <b>Email:</b> kanizfatema2701@gmail.com<br/><br/>
+  🔗 <a href="https://www.linkedin.com/in/kanizfatema96/">LinkedIn</a> • 
+  <a href="https://">Facebook</a> • 
+  <a href="https:// kaniz-portfolio.surge.sh/ /">Portfolio</a>
 </p>
 
 ---
