@@ -49,7 +49,7 @@
 <p align="center">
   📧 <b>Email:</b> kanizfatema2701@gmail.com<br/><br/>
   🔗 <a href="https://www.linkedin.com/in/kanizfatema96/">LinkedIn</a> • 
-  <a href="https://">Facebook</a> • 
+  <a href="https://www.facebook.com/kanizfatematuly27">Facebook</a> • 
   <a href="https:// kaniz-portfolio.surge.sh/ /">Portfolio</a>
 </p>
 
