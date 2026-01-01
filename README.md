@@ -26,7 +26,7 @@
 
 ## 🛠️ Skills
 
-## 🛠️ Skills
+
 
 ## 🖥️ Frontend
 <p align="left">
