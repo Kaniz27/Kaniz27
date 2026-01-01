@@ -1,44 +1,76 @@
-# Assalamualaikum 👋 I’m Kaniz Fatema
+<h1 align="center">Hi, I'm Kaniz Fatema👋</h1>
+<h3 align="center">MERN Stack Web Developer</h3>
 
-**Web Developer | MERN Stack Enthusiast**
-
-💫 **About Me:**  
-Hello, I’m Kaniz. My core skill is **JavaScript**, and I love to do most things with JavaScript. I’m skilled in **MERN Stack** and have a strong passion for learning & implementing new web technologies. Currently, I’m studying software engineering.
-
----
-
-## 🌐 Socials
-[![Behance](https://img.shields.io/badge/Behance-%230057FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://www.pinterest.com/)  
-[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/)  
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+<p align="center">
+  Passionate about building fast, scalable, and user-friendly web applications.<br/>
+  I work with modern JavaScript technologies and love turning ideas into reality through clean, efficient code.
+</p>
 
 ---
 
-## 💻 Tech Stack
-[![C](https://img.shields.io/badge/C-%23007ACC?style=for-the-badge&logo=c&logoColor=white)]() 
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]() 
-[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()  
-[![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)]()  
-[![NodeJS](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]()  
-[![Redux](https://img.shields.io/badge/Redux-%23593D88?style=for-the-badge&logo=redux&logoColor=white)]()  
-[![Next.js](https://img.shields.io/badge/Next.js-%23000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()  
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()  
-[![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)]()  
-[![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)]()  
-[![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=black)]()  
-[![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)]()  
+## 🔥 What I’m Currently Doing
+
+<p align="center">
+  🔍 Exploring JavaScript deeply — focusing on closures, event loop, async patterns, prototypes & performance optimization<br/>
+  🌱 Learning MERN Stack for high-performance full-stack applications<br/>
+  💼 Working on a <b>Shipping Web Application</b><br/>
+  🛠 Improving Backend & REST API development skills<br/>
+  🎨 Learning better UI/UX design principles
+</p>
+
+---
+
+## 🛠️ Skills
+
+### 🚀 Frontend
+<p align="center">
+  HTML • CSS • Tailwind CSS • JavaScript • React • Next.js
+</p>
+
+### ⚙️ Backend
+<p align="center">
+  Node.js • Express.js • MongoDB • REST API
+</p>
+
+### 🧰 Tools
+<p align="center">
+  Git • GitHub • VS Code • Postman • Firebase
+</p>
+
+### 🎨 Design
+<p align="center">
+  Figma • UI/UX Principles • Responsive Design
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  📧 <b>Email:</b> kushbuladesignmax+++@gmail.com<br/><br/>
+  🔗 <a href="https://www.linkedin.com/in/kushbula-ahmed-nahiyan/">LinkedIn</a> • 
+  <a href="https://www.facebook.com/nahiyan.01.khan">Facebook</a> • 
+  <a href="https://kushbula.netlify.app/">Portfolio</a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Kaniz27's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaniz27&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaniz27&layout=compact&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nahiyan&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nahiyan&theme=tokyonight" />
+</p>
 
 ---
 
-✨ **Let’s connect and create amazing projects together!**
+## 🌸 Thank You for Visiting!
+
+<p align="center">
+  Thank you so much for taking the time to explore my profile.<br/>
+  Your support and interest truly mean a lot 💙<br/><br/>
+  Feel free to connect with me or check out my projects anytime!
+</p>
