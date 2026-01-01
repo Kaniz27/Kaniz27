@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kaniz27/Kaniz27/main/banner.png" alt="Profile Banner" width="100%" />
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQEJx7V2TFIuZg/profile-displaybackgroundimage-shrink_350_1400/B4EZoaOlslKMAY-/0/1761376625093?e=1769040000&v=beta&t=iGa7jzlL30e19x6nxAh5C7Dalajh0mduqfCO92iCyJo" />
 </p>
 
 <h1 align="center">Hi, I'm Kaniz Fatema 👋</h1>
