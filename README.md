@@ -28,8 +28,8 @@
 
 ## 🛠️ Skills
 
-<p align="">
-  <!-- Frontend -->
+## 🖥️ Frontend
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />&nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT28tj7Dipgkq9h5msRMqazPtviHj7tpx3CLA&s" alt="TailwindCSS" width="50" height="50" />&nbsp;
@@ -38,16 +38,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="50" height="50" />
 </p>
 
-<p align="">
-  <!-- Backend -->
+## 🗄️ Backend
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="50" height="50" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" />
 </p>
 
-<p align="">
-  <!-- Tools -->
+## 🛠️ Tools
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" />&nbsp;
@@ -55,11 +55,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" />
 </p>
 
-<p align="">
-  <!-- Design -->
+## 🎨 Design
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adobe/adobe-plain.svg" alt="UI/UX Design" width="50" height="50" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/responsive/responsive-plain.svg" alt="Responsive Design" width="50" height="50" />
+  <img src="https://camo.githubusercontent.com/4f0df4821609fd3c2051f694cdc89e404d10793a9f5307e7928388fbd21cbdda/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669676d612c70686f746f73686f702c696c6c7573747261746f72" alt="UI/UX Design" width="50" height="50" />&nbsp;
+  <img src="https://camo.githubusercontent.com/4f0df4821609fd3c2051f694cdc89e404d10793a9f5307e7928388fbd21cbdda/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6669676d612c70686f746f73686f702c696c6c7573747261746f72" alt="Responsive Design" width="50" height="50" />
 </p>
 
 ---
